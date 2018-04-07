@@ -5,7 +5,7 @@ TO DO
 - de adaugat informatii pentru GPU
 - de modificat si testat speech_data cu diverse functii pentru spectograme
 
-DONE
+Working
 - de incarcat fisierele cu emotii
 
 
