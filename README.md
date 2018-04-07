@@ -5,8 +5,9 @@ TO DO
 - de adaugat informatii pentru GPU
 - de modificat si testat speech_data cu diverse functii pentru spectograme
 
-In lucru
-- incarcare fisiere cu emotii
+DONE
+- incarcare fisiere cu emotii in arhive tar
+
 
 Date despre fisiere
 *******************
