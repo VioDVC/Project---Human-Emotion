@@ -5,10 +5,11 @@ TO DO
 - de adaugat informatii pentru GPU
 - de modificat si testat speech_data cu diverse functii pentru spectograme
 
-Working
-- de incarcat fisierele cu emotii
+In lucru
+- incarcare fisiere cu emotii
 
-
+Date despre fisiere
+*******************
 Modality (01 = full-AV, 02 = video-only, 03 = audio-only).
 Vocal channel (01 = speech, 02 = song).
 Emotion (01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised).
